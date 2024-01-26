@@ -11,3 +11,4 @@ Git is a free software
 6
 7
 I knowed stage are how to work
+I try to replace checkout with restore in git
