@@ -8,3 +8,6 @@ Git is a free software
 3
 4
 5
+6
+7
+I knowed stage are how to work
