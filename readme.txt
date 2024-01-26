@@ -7,8 +7,6 @@ Git is a free software
 2
 3
 4
-5
-6
-7
+I try deleting the number from five to seven
 I knowed stage are how to work
 I try to replace checkout with restore in git
