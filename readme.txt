@@ -12,4 +12,4 @@ I knowed stage are how to work
 I try to replace checkout with restore in git
 I tried the function of switch 
 5
-I make a new branch 'feature1'
+I make a new branch 'master'
