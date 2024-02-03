@@ -1,0 +1,6 @@
+1.我在绑定分支和远程库的时候把远程库的地址打错了,误以为是ssh私匙对不上.
+用 git remote -v 看了一下origin链接的地址,发现错了,再用 git remote rm <name> 把它删了重新记录
+
+git remote add <remote library name> <link> 链接远程库
+git remote -v 查看远程库信息
+git remote rm <remote library name> 删除本地和远程的绑定关系
